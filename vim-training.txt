@@ -1,0 +1,10 @@
+vim-training.txt
+
+
+
+
+This is my vim training. 
+
+
+
+I need to type really really fast and edit code very fast 

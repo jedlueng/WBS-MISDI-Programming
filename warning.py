@@ -1,3 +1,4 @@
+
 #Jedlueng 22 October 2021 
 
 '''Please enter the visitor's temperature: 38 
@@ -17,5 +18,6 @@ if temp > temp_lim:
     print('**************WARNING**************')
     print('***HIGH TEMPERATURE '+str(temp)+'C DETECTED***')
     print('***********************************')
+
 
 
