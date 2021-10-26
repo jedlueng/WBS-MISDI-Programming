@@ -1,0 +1,3 @@
+head(iris)         # Show the first six lines of iris data
+plot(iris)         # Scatterplot matrix for iris data
+detach("package:datasets", unload = TRUE)  # For base
