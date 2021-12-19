@@ -1,0 +1,10 @@
+room_id,Capacity,Equipment,Location,Availability
+R1,10,Chair,Warwick,TRUE
+R2,10,Chair,Warwick,FALSE
+R3,5,Chair,Warwick,TRUE
+R4,5,Table,Manchester,TRUE
+R5,3,Table,Manchester,TRUE
+R6,3,Computer,Manchester,TRUE
+R7,2,Computer,Liverpool,TRUE
+R8,2,Computer,Liverpool,FALSE
+R9,2,Computer,Liverpool,FALSE
