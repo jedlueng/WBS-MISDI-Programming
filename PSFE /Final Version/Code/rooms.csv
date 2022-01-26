@@ -1,0 +1,21 @@
+room_id,Capacity,Location,Name,Availability,Computer,Printer,Projector
+R1,10,WBS,WBS 1,True,False,False,False
+R2,20,WBS,WBS 2,False,True,True,False
+R3,30,WBS,WBS 3,True,True,True,True
+R4,40,WBS,WBS 4,True,True,True,True
+R5,50,WBS,WBS 5,True,True,True,True
+R6,10,Library,LIB 5,True,False,False,False
+R7,20,Library,LIB 5,True,True,True,False
+R8,30,Library,LIB 5,False,True,True,True
+R9,40,Library,LIB 5,False,True,True,True
+R10,50,Library,LIB 5,True,True,True,True
+R11,10,Engineering,ENG,False,False,False,False
+R12,20,Engineering,ENG,True,True,True,False
+R13,30,Engineering,ENG,True,True,True,True
+R14,40,Engineering,ENG,True,True,True,True
+R15,50,Engineering,ENG,True,True,True,True
+R16,10,WMG,WMG,True,False,False,False
+R17,20,WMG,WMG,False,True,True,False
+R18,30,WMG,WMG,False,True,True,True
+R19,40,WMG,WMG,True,True,True,True
+R20,50,WMG,WMG,False,True,True,True
