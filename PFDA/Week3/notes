@@ -1,0 +1,1 @@
+SELECT latitudeslongitudel dockscountidIvisits FROM `bigquery-public-datailondon joicycles.cycle_stations' AS ti (SELECT count(rental_id) as visits, end_station_id FROM ‘bigquery-public-dataiondon_bicycles.cycle hire' GROUP BY end station id) AS t2 WHERE t1.16---42.end station id ORDER BY visits DESC 
